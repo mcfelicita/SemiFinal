@@ -8,7 +8,7 @@ def home():
     return(
         "Fullname: Mietchelle P. Felicita<br>"
         "Section: BSIT 3-A 2nd LAB<br>"
-        "Subject System Integration and Architecture 1<br>"
+        "Subject: System Integration and Architecture 1<br>"
         "Exam: Semi-Final Exam"
     )
 
