@@ -6,9 +6,9 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return(
-        "Fullname: Mietchelle P. Felicits<br>"
+        "Fullname: Mietchelle P. Felicita<br>"
         "Section: BSIT 3-A 2nd LAB<br>"
-        "Subject System Integration and Architecture<br>"
+        "Subject System Integration and Architecture 1<br>"
         "Exam: Semi-Final Exam"
     )
 
